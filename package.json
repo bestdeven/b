@@ -1,4 +1,5 @@
 {
+"homepage": "http://bestdeven.github.io/b",
   "name": "cra-template-adrinlol",
   "version": "1.4.0",
   "keywords": [
@@ -27,5 +28,8 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
